@@ -1,0 +1,16 @@
+<application>
+  <component name="HybrisApplicationSettings">
+    <option name="allowedSendingPlainStatistics" value="true" />
+    <option name="defaultPlatformInReadOnly" value="false" />
+    <option name="hideEmptyMiddleFolders" value="false" />
+    <option name="sourceCodeDirectory" value="C:/projects/aweu-eia/hybris" />
+    <option name="sourceZipUsed" value="false" />
+    <option name="usedActions">
+      <set>
+        <option value="IMPORT_PROJECT" />
+        <option value="OPEN_PROJECT" />
+        <option value="BUILD_PROJECT" />
+      </set>
+    </option>
+  </component>
+</application>
