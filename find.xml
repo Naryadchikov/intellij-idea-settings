@@ -17,6 +17,7 @@
     <mask>*properties</mask>
     <mask>*.xml</mask>
     <mask>actions.js</mask>
+    <mask>*.impex</mask>
     <mask>*.java</mask>
   </component>
 </application>
