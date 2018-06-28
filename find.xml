@@ -7,22 +7,22 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*items.xml</mask>
     <mask>*</mask>
     <mask>*xml</mask>
     <mask>*properties</mask>
     <mask>actions.js</mask>
-    <mask>*.impex</mask>
     <mask>*.properties</mask>
     <mask>*en.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*items.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
