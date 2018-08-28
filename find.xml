@@ -14,10 +14,10 @@
     <mask>actions.js</mask>
     <mask>*en.properties</mask>
     <mask>*.impex</mask>
-    <mask>*.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
