@@ -20,5 +20,6 @@
     <mask>*.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.java</mask>
+    <mask>*info.xml</mask>
   </component>
 </application>
