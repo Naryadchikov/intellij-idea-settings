@@ -19,8 +19,8 @@
     <mask>advanced*.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
-    <mask>*.jsp</mask>
   </component>
 </application>
