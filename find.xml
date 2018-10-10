@@ -13,7 +13,6 @@
     <mask>*properties</mask>
     <mask>actions.js</mask>
     <mask>*en.properties</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*info.xml</mask>
@@ -22,5 +21,6 @@
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
