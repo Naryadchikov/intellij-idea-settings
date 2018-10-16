@@ -17,10 +17,10 @@
     <mask>*info.xml</mask>
     <mask>advanced*.xml</mask>
     <mask>*items.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
