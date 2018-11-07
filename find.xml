@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -18,10 +19,10 @@
     <mask>advanced*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>extensioninfo.xml</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
