@@ -23,5 +23,6 @@
     <mask>*.java</mask>
     <mask>*items.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.zul</mask>
   </component>
 </application>
