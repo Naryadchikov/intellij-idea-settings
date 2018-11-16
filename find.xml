@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*DaoImpl.java" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -23,9 +23,9 @@
     <mask>*.zul</mask>
     <mask>*.vue</mask>
     <mask>*.impex</mask>
-    <mask>*DaoImpl.java</mask>
     <mask>*items.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*DaoImpl.java</mask>
   </component>
 </application>
