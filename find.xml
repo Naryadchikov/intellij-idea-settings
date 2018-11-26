@@ -23,8 +23,8 @@
     <mask>*.vue</mask>
     <mask>*items.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*DaoImpl.java</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>
