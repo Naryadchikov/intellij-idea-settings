@@ -22,9 +22,9 @@
     <mask>*.zul</mask>
     <mask>*.vue</mask>
     <mask>*items.xml</mask>
-    <mask>*.xml</mask>
     <mask>*DaoImpl.java</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
