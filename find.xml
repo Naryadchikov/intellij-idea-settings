@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -17,11 +15,9 @@
     <mask>*.tag</mask>
     <mask>*info.xml</mask>
     <mask>advanced*.xml</mask>
-    <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>extensioninfo.xml</mask>
     <mask>*.zul</mask>
-    <mask>*.vue</mask>
     <mask>*items.xml</mask>
     <mask>*.impex</mask>
     <mask>*Label*.java</mask>
@@ -29,5 +25,7 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
