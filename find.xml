@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -26,7 +26,7 @@
     <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.vue</mask>
-    <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
