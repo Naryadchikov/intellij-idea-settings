@@ -28,5 +28,6 @@
     <mask>*spring.xml</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.</mask>
   </component>
 </application>
