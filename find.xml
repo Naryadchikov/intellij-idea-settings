@@ -24,10 +24,10 @@
     <mask>*.jsp</mask>
     <mask>*.vue</mask>
     <mask>*spring.xml</mask>
-    <mask>*.java</mask>
     <mask>*.</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>
