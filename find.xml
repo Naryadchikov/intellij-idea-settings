@@ -27,7 +27,7 @@
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.jsp</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
