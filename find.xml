@@ -28,7 +28,7 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*Dao.java</mask>
-    <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>
