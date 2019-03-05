@@ -18,7 +18,6 @@
     <mask>*.js</mask>
     <mask>extensioninfo.xml</mask>
     <mask>*.zul</mask>
-    <mask>*items.xml</mask>
     <mask>*Label*.java</mask>
     <mask>*DaoImpl.java</mask>
     <mask>*.vue</mask>
@@ -30,5 +29,6 @@
     <mask>*.jsp</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
