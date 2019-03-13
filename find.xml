@@ -24,11 +24,11 @@
     <mask>*spring.xml</mask>
     <mask>*.</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*Dao.java</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
