@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="zul" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping pattern="editorArea_LynxError" type="XML" />
     </extensionMap>
   </component>
 </application>
