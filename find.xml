@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="!*.impex" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -31,7 +32,8 @@
     <mask>*items.xml</mask>
     <mask>!*Test.java</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>!*.impex</mask>
   </component>
 </application>
