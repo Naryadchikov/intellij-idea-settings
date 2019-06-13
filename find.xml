@@ -26,12 +26,12 @@
     <mask>*.</mask>
     <mask>*Dao.java</mask>
     <mask>*.jsp</mask>
-    <mask>*items.xml</mask>
     <mask>!*Test.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>!*.impex</mask>
     <mask>*.java</mask>
+    <mask>*items.xml</mask>
     <mask>*.impex</mask>
   </component>
 </application>
